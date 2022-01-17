@@ -9,8 +9,5 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Aesearch articles
+- Ghorbani, Mahdi, Bernard R. Brooks, and Jeffery B. Klauda. "Critical sequence hotspots for binding of novel coronavirus to angiotensin converter enzyme as evaluated by molecular simulations." The Journal of Physical Chemistry B 124.45 (2020): 10034-10047.
