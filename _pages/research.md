@@ -20,8 +20,9 @@ The spike protein in SARS-COV-2 resinding on virion's surface mediates its entry
 A glycan shield on the spike protein helps the virus evade the human immune response by providing a thick barrier agains antibodies. In the next part of this project, we studied dynamic motion of glycans in the spike protein through microsecond-long MD simulations in different states of RBD. A network anallysis on the glycans revealed the importance of different regions and microdomains of glycans for an effective shielding agains incoming antibodies. Find more information [here](https://www.sciencedirect.com/science/article/pii/S0006349521002101)
 
 
-- ***Gaussian mixture variatioanal autoencoder for clustering and dimensionality reduction of protein folding***
+- <img align='right' width='250' src='../images/proj3.png'/> ***Gaussian mixture variatioanal autoencoder for clustering and dimensionality reduction of protein folding***
 
+Dimensionality reduction methods are required for extracting useful information about molecular processes from protein folding trajectories. Here, I use a machine learning method, Gaussian mixture variational autoencoder (GMVAE) to simultaneously perform dimensionality reduction and clustering of MD trajectories. GMVAE can learn a reduced representation of free energy landscape of protein folding with highly separated clusters that correspond to the metastable states during folding. Find out more [here](https://aip.scitation.org/doi/pdf/10.1063/5.0069708)
 
-- ***GraphVAMPNet, using graph neural network and variational approach to mark processes for dynamical modeling of biomolecules***
+- <img align='right' width='250' src='../images/proj4.png'/> ***GraphVAMPNet, using graph neural network and variational approach to mark processes for dynamical modeling of biomolecules***
 
