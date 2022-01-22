@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mahdi Ghorbani's personal website"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
