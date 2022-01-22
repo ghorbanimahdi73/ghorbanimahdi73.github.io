@@ -11,36 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Chemical Engineering, University of Tehran, 2016
+* Ph.D in Chemical and Biomolecular Engineering, Universit of Maryland, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* since 2019: Pre-doctral IRTA Fellow, National Institute of Health
+  * National Lung, Heart and Blood Institute 
+  * superviser: Prof. Bernard Brooks
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* since 2018: Doctral Researcher, University of Maryland College Park
+  * Department of Chemical and Biomolecular Engineering
+  * Supervisor: Prof. Jeffery Klauda
+
+* 2014-2017: Undergraduate Research Assistant, University of Tehran
+  * Department of Chemical Engineering
+  * Supervisor: Dr. Zeinab Salehi
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -50,10 +37,8 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2019-2020: University of Maryland, College Park,
+  * Teaching Assistant for Thermodynamics I
+  * Teaching Assistant for Thermodynamics II
+* 2016-217: University of Tehran,
+  * Teaching Assistant for Applications of computational methods in Chemical Engineering
