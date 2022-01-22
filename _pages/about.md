@@ -12,7 +12,7 @@ I am a fifth-year PhD student of Chemical and Biomolecular Engineering at the Un
 
 Besides science I enjoy running. Here is a picture of me in my last marathon (Oct 2021). 
 
-<img width='200' src='../images/running.png'/>
+<img width='300' src='../images/running.png'/>
 
 I am going to run my next marathon in May and hopefully I will improve my record to be under four hours. 🏃‍♂️
 
