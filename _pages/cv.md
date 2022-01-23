@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](https://github.com/ghorbanimahdi73/ghorbanimahdi73.github.io/blob/master/files/CV.pdf)
+You can find my CV [here](ghorbanimahdi73.github.io/files/CV.pdf)
 
