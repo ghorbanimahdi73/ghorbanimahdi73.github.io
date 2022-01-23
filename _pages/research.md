@@ -27,6 +27,9 @@ A glycan shield on the spike protein helps the virus evade the human immune resp
 Permeation of small molecules through membrane is of fundamental importance for many biological processes. Here permeabilities are calculated and compared with two approaches based on Fick's first law and the inhomogenous solubility-diffusion model. We showed that the free energy and diffusion profiles for ethanol through POPC membrane lacks accuracy at higher permeant concentration due to non-Markovian kinetics caused by collective behavior. In contrast, counting method provides unbiased estimates. Finally, we showed that permeabilities obtained from single bilayer simulations can be combined to represent a natural gradient concentration felt by a cellular membrane which accurately models the non-equilibrium efffects of ethanol permeability from single bilayer simulations in equilibrium. 
 
 
+- <img align='right' width='300' src='../images/proj0.png'/> ***A replica exchange umbrella sampling (REUS) approach to predict host–guest binding free energies in SAMPL8 challenge***
+
+In this study, we report binding free energy calculations of various drugs-of-abuse to Cucurbit-[8]-uril as part of the SAMPL8 blind challenge. Force-field parameters were obtained from force-matching with different quantum mechanical levels of theory. The Replica Exchange Umbrella Sampling (REUS) approach was used with a cylindrical restraint to enhance the sampling of host–guest binding. Binding free energy was calculated by pulling the guest molecule from one side of the symmetric and cylindrical host, then into and through the host, and out the other side (bidirectional) as compared to pulling only to the bound pose inside the cylindrical host (unidirectional). 
 
 
 
